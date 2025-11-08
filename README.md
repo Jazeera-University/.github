@@ -35,7 +35,7 @@ This organization is the central home for our academic and operational software�
 ## Security & responsible disclosure
 
 If you find a security issue, **do not** open a public issue.  
-Email **security@jazeerauniversity.com** (or the address listed in the repository’s `SECURITY.md`). We will acknowledge, investigate, and fix as appropriate.
+Email **ict@jazeerauniversity.com** (or the address listed in the repository’s `SECURITY.md`). We will acknowledge, investigate, and fix as appropriate.
 
 ---
 
@@ -59,12 +59,11 @@ Each repository should include its own `LICENSE` file.
 ## Governance
 
 This organization is administered by Jazeera University.  
-For access requests or policy questions, contact **devops@jazeerauniversity.com** (or your faculty’s technical lead).
+For access requests or policy questions, contact **ict@jazeerauniversity.com** (or your faculty’s technical lead).
 
 ---
 
 ### Quick links
 
 - 🌐 Website: https://jazeerauniversity.com/  
-- 🧭 Org Policies: see `.github/` community files in this organization  
-- 🛠️ Starter Templates: `<link to your template repos once created>`
+
