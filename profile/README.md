@@ -1,7 +1,7 @@
 # Jazeera University · GitHub Organization
 
 **Founded:** 2010 · **Location:** Mogadishu, Somalia  
-**Website:** https://jazeerauniversity.com/
+**Website:** https://jazeerauniversity.edu.so/
 
 Jazeera University is a higher-education institution dedicated to teaching, research, and technology that serves the public good.  
 This organization is the central home for our academic and operational software—course resources, research prototypes, department tools, and production systems—maintained by faculty, students, and staff.
